@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+nav {
+  margin: 10px;
+  text-align: center;
+  display: inline-block;
+  display: flex;
+  background-color: #eff;
+  padding: 0;
+  margin: 0;
+}
+nav ul {
+  list-style-type: none;
+}
+nav ul li {
+  display: inline;
+}
+nav ul a{
+    text-decoration: none;
+    color: black;
+}
+.middle li{
+    padding: 15px;
+    font-size: 18px;
+}
+.left {
+  margin: 2px;
+}
+.middle {
+  padding: 20px;
+  margin-left: 5%;
+}
+.right {
+  margin-top: 20px;
+  margin-left: 5%;
+}
